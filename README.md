@@ -61,11 +61,14 @@ An additional layout demonstrates:
 
 ## Screenshots
 
-Add screenshots of your project in these positions:
+### 1. Top Left
+![Top Left](screenshots/top-left.png)
 
-1. Top Left: `screenshots/top-left.png`
-2. Center: `screenshots/center.png`
-3. Bottom Right: `screenshots/bottom-right.png`
+### 2. Center
+![Center](screenshots/center.png)
+
+### 3. Bottom Right
+![Bottom Right](screenshots/bottom-right.png)
 
 ## Video Demonstration
 
